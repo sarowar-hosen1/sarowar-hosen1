@@ -1,4 +1,4 @@
-### Hi, I am Sarowar Hosen 👋
+### Hi, I am [Sarowar Hosen](https://www.linkedin.com/in/sarowar-hosen/) 👋
 
 - 🔭 I’m currently working on VS Code
 - 🌱 I’m currently learning something new about programming
