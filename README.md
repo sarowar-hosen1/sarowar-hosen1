@@ -5,3 +5,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 2021 Goals: [Next.js](https://nextjs.org/) & [Vue.js](https://vuejs.org/)
 - ⚡ Fun fact: I love explore new tools
+<br/>
+<br/>
+## Connect with me:
